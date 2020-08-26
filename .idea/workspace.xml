@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6aff84c-278a-44e1-ad6f-1bd4fb75d839" name="Default Changelist" comment="Speakin project details" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Irving_Hzc" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/HzcIrving/Signal_Package.git" />
+        <option value="https://github.com/HzcIrving/Speakin_Workspace.git" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="8483323b-da14-46b2-a059-dfe25dbc0030" />
+  <component name="ProjectId" id="1fIX03wg2ysALkIb0xU1Ql87cPg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SingalProcess" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Speakin_Workspace\SingalProcess" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Speakin_Workspace\Acceleration_signal\original_data" />
+      <recent name="E:\Speakin_Workspace\pytorch_lmdb_dataset" />
+      <recent name="E:\Speakin_Workspace" />
+      <recent name="E:\Speakin_Workspace\SingalProcess" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.MA_denoising_module (1)">
+    <configuration name="MA_denoising_module (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Speakin_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingalProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingalProcess/MA_denoising_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MA_denoising_module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Speakin_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingalProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\Speakin_Workspace\SingalProcess\MA_denoising_module.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Poly_order_databuild" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Speakin_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingalProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingalProcess/Poly_order_databuild.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Pressure" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Speakin_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingalProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingalProcess/Pressure.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Speakin_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="signal_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Speakin_Workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SingalProcess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SingalProcess/signal_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.Pressure" />
+      <item itemvalue="Python.signal_utils" />
+      <item itemvalue="Python.Poly_order_databuild" />
+      <item itemvalue="Python.MA_denoising_module" />
+      <item itemvalue="Python.MA_denoising_module (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MA_denoising_module (1)" />
+        <item itemvalue="Python.signal_utils" />
+        <item itemvalue="Python.Poly_order_databuild" />
+        <item itemvalue="Python.Pressure" />
+        <item itemvalue="Python.MA_denoising_module" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6aff84c-278a-44e1-ad6f-1bd4fb75d839" name="Default Changelist" comment="" />
+      <created>1595906354212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595906354212</updated>
+      <workItem from="1596524044527" duration="150000" />
+      <workItem from="1596524299115" duration="4000" />
+      <workItem from="1596525358481" duration="107000" />
+      <workItem from="1596525542332" duration="15000" />
+      <workItem from="1596525566444" duration="5301000" />
+      <workItem from="1596677660655" duration="19509000" />
+      <workItem from="1596765984469" duration="20216000" />
+      <workItem from="1597023653690" duration="11997000" />
+      <workItem from="1597112802024" duration="11169000" />
+      <workItem from="1597282337485" duration="80687000" />
+      <workItem from="1598232874941" duration="63062000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Multi-Scale-1D-ResNet" />
+      <path value="$PROJECT_DIR$/Hzc_Speaking_Project" />
+      <path value="$PROJECT_DIR$/Hzc_Speaking_Project/Multi-Scale-1D-ResNet" />
+      <path value="$PROJECT_DIR$/Hzc_Speaking_Project/pytorch_lmdb_dataset" />
+      <path value="$PROJECT_DIR$/Model" />
+      <path value="$PROJECT_DIR$/pytorch_lmdb_dataset" />
+    </ignored-roots>
+    <MESSAGE value="Speakin project details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Speakin project details" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2679" y="393" key="#Deployment" timestamp="1598257492368">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="242" key="#Deployment/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525788378" />
+    <state x="2679" y="393" key="#Deployment/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598257492368" />
+    <state x="679" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597903838085">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="679" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1597903838085" />
+    <state x="2599" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596700255745" />
+    <state x="709" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1596525554858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="389" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525554858" />
+    <state x="2610" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597110569361">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2610" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597110569361" />
+    <state x="2480" y="131" width="1067" height="818" key="CommitChangelistDialog2" timestamp="1598437374881">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2480" y="131" width="1067" height="818" key="CommitChangelistDialog2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437374881" />
+    <state x="735" y="261" key="FileChooserDialogImpl" timestamp="1596525551834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525551834" />
+    <state x="2719" y="431" width="321" height="274" key="Github.ShareDialog" timestamp="1598437263861">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2719" y="431" width="321" height="274" key="Github.ShareDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437263861" />
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom" timestamp="1598437374961">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="654" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525645494" />
+    <state width="1877" height="654" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596530171145" />
+    <state width="1204" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1598422612521" />
+    <state width="1877" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437374961" />
+    <state width="1877" height="203" key="GridCell.Tab.0.center" timestamp="1598437374960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="654" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525645494" />
+    <state width="1877" height="654" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596530171145" />
+    <state width="1204" height="209" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1598422612520" />
+    <state width="1877" height="203" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437374960" />
+    <state width="1877" height="203" key="GridCell.Tab.0.left" timestamp="1598437374960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="654" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525645493" />
+    <state width="1877" height="654" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596530171144" />
+    <state width="1204" height="209" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1598422612520" />
+    <state width="1877" height="203" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437374960" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right" timestamp="1598437374960">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="654" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525645494" />
+    <state width="1877" height="654" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596530171145" />
+    <state width="1204" height="209" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1598422612521" />
+    <state width="1877" height="203" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437374960" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom" timestamp="1598343893178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1597903538817" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598343893178" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center" timestamp="1598343893178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1597903538817" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598343893178" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left" timestamp="1598343893178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1597903538817" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598343893178" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right" timestamp="1598343893178">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1597903538817" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598343893178" />
+    <state x="335" y="258" width="1585" height="708" key="SettingsEditor" timestamp="1598437306132">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525405276" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1596530128771" />
+    <state x="335" y="258" width="1585" height="708" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437306132" />
+    <state x="2472" y="367" width="816" height="439" key="Vcs.Push.Dialog.v2" timestamp="1598437353979">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="367" width="816" height="439" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598437353979" />
+    <state x="2298" y="277" width="1736" height="786" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1598435719273">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2298" y="277" width="1736" height="786" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598435719273" />
+    <state x="1959" y="209" width="1736" height="867" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1598434586929">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1959" y="209" width="1736" height="867" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598434586929" />
+    <state x="2560" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1597282337478">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1596525568462" />
+    <state x="640" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1596677667088" />
+    <state x="2560" y="357" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597282337478" />
+    <state x="2672" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597813799709">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2672" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1597813799709" />
+    <state x="2275" y="38" width="1555" height="1066" maximized="true" key="dock-window-1" timestamp="1598410054940">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2275" y="38" width="1555" height="1066" maximized="true" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1598410054940" />
+    <state x="566" y="124" width="868" height="1066" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598410026186" />
+    <state x="2991" y="349" width="779" height="538" key="ftp.server.browser" timestamp="1598257721055">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2991" y="349" width="779" height="538" key="ftp.server.browser/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598257721055" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1598420758441">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1598420758441" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598338044255" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$data_analysis.coverage" NAME="data_analysis Coverage Results" MODIFIED="1597715542087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Acceleration_signal" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$MA_denoising_module__1_.coverage" NAME="MA_denoising_module (1) Coverage Results" MODIFIED="1598437215856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingalProcess" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$Pressure.coverage" NAME="Pressure Coverage Results" MODIFIED="1598348063742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingalProcess" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$Model.coverage" NAME="Model Coverage Results" MODIFIED="1597909712768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model/ResNet18_34" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$Poly_order_databuild.coverage" NAME="Poly_order_databuild Coverage Results" MODIFIED="1598422612513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingalProcess" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$signal_utils.coverage" NAME="signal_utils Coverage Results" MODIFIED="1598434700478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingalProcess" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$Easy_1DNets.coverage" NAME="Easy_1DNets Coverage Results" MODIFIED="1597905498667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model/Easy_Conv1DNETS" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$Wavelet_denoising_Module.coverage" NAME="Wavelet_denoising_Module Coverage Results" MODIFIED="1597742461154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Acceleration_signal" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$MA_denosing_module.coverage" NAME="MA_denosing_module Coverage Results" MODIFIED="1598346847738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SingalProcess" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$dataset_test.coverage" NAME="dataset_test Coverage Results" MODIFIED="1596767193608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_lmdb_dataset" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$mse_test.coverage" NAME="mse_test Coverage Results" MODIFIED="1597647175313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets_path_csv" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$ResNet1D.coverage" NAME="ResNet1D Coverage Results" MODIFIED="1597828977995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model/ResNet1D" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$create_lmdb.coverage" NAME="create_lmdb Coverage Results" MODIFIED="1597112938965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pytorch_lmdb_dataset" />
+    <SUITE FILE_PATH="coverage/Speakin_Workspace$data_test.coverage" NAME="data_test Coverage Results" MODIFIED="1598260014000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Datasets_path_csv" />
+  </component>
+</project>
